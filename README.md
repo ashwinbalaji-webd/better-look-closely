@@ -1,4 +1,4 @@
-Available on : https://ashwinbalaji-webd.github.io/better-watch-closely/
+Available on : https://ashwinbalaji-webd.github.io/better-look-closely/
 
 # Getting Started with Create React App
 
