@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/better-watch-closely/static/css/main.a53f62a0.css",
-    "main.js": "/better-watch-closely/static/js/main.8945ae7d.js",
-    "static/js/453.ded6cf96.chunk.js": "/better-watch-closely/static/js/453.ded6cf96.chunk.js",
-    "static/media/bubbles-background.png": "/better-watch-closely/static/media/bubbles-background.60773dd3b2d83e0ab119.png",
-    "static/media/hand.svg": "/better-watch-closely/static/media/hand.92dbf90e89253a47a722d0f8b616b624.svg",
-    "index.html": "/better-watch-closely/index.html",
-    "static/media/pauseicon.svg": "/better-watch-closely/static/media/pauseicon.6ea81408e64dc17a673da41b08c39b12.svg",
-    "static/media/pause.svg": "/better-watch-closely/static/media/pause.b8c311db767f7cc289ab2410c8962d8e.svg",
-    "static/media/fullscreen.svg": "/better-watch-closely/static/media/fullscreen.e8be9d1fc7375f320e32f28203b4e748.svg",
-    "main.a53f62a0.css.map": "/better-watch-closely/static/css/main.a53f62a0.css.map",
-    "main.8945ae7d.js.map": "/better-watch-closely/static/js/main.8945ae7d.js.map",
-    "453.ded6cf96.chunk.js.map": "/better-watch-closely/static/js/453.ded6cf96.chunk.js.map"
+    "main.css": "/better-look-closely/static/css/main.a53f62a0.css",
+    "main.js": "/better-look-closely/static/js/main.0d050012.js",
+    "static/js/453.5c67e4cf.chunk.js": "/better-look-closely/static/js/453.5c67e4cf.chunk.js",
+    "static/media/bubbles-background.png": "/better-look-closely/static/media/bubbles-background.60773dd3b2d83e0ab119.png",
+    "static/media/hand.svg": "/better-look-closely/static/media/hand.92dbf90e89253a47a722d0f8b616b624.svg",
+    "index.html": "/better-look-closely/index.html",
+    "static/media/pauseicon.svg": "/better-look-closely/static/media/pauseicon.6ea81408e64dc17a673da41b08c39b12.svg",
+    "static/media/pause.svg": "/better-look-closely/static/media/pause.b8c311db767f7cc289ab2410c8962d8e.svg",
+    "static/media/fullscreen.svg": "/better-look-closely/static/media/fullscreen.e8be9d1fc7375f320e32f28203b4e748.svg",
+    "main.a53f62a0.css.map": "/better-look-closely/static/css/main.a53f62a0.css.map",
+    "main.0d050012.js.map": "/better-look-closely/static/js/main.0d050012.js.map",
+    "453.5c67e4cf.chunk.js.map": "/better-look-closely/static/js/453.5c67e4cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a53f62a0.css",
-    "static/js/main.8945ae7d.js"
+    "static/js/main.0d050012.js"
   ]
 }
